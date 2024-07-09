@@ -1,0 +1,10 @@
+input{
+    margin: 20px;
+    display: inline-block;
+}
+fieldset{
+    margin: auto;
+    width: 60%;
+    border: 1px solid green;
+    border-radius: 8px;
+}

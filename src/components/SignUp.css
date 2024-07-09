@@ -1,0 +1,21 @@
+input{
+    margin: 20px;
+    display: inline-block;
+}
+fieldset{
+    border: 1px solid green;
+    border-radius: 8px;
+    width: 60%;
+    margin: auto;
+}
+#register-reset{
+    display: flex;
+    justify-content: space-evenly;
+}
+#terms-policy{
+    justify-content: start;
+}
+#Username, #Email, #Password, #RepeatPassword{
+    width: 70%;
+    text-align: start;
+}
